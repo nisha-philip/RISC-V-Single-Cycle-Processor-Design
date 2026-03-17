@@ -37,7 +37,7 @@ Language: Verilog HDL
 
 Simulator: QuestaSim / ModelSim/ QuartusPrime: Synthesis
 
-Waveform Viewer: GTKWave / ModelSim Wave Window
+Waveform Viewer: ModelSim Wave Window
 
 ## Functionality with a Preliminary Testbench
 ![](https://github.com/nisha-philip/RISC-V-Single-Cycle-Processor-Design/blob/main/waveformRISCV.png)
